@@ -21,7 +21,7 @@ Sublinhar que os resultados destas pesquisas são de carácter não-oficial e cr
 - [Formulário do inquérito](https://docs.google.com/forms/d/e/1FAIpQLSdA2aynlZ_vRUK0sTY-sUcuSaJzy5hlSFjft98xZTITBVEg2A/viewform)
 - [Ficheiro CSV](inquerito-2021-ti.csv)
 
-### 2019,2020,2021, Tecnologias de Informação
+### 2019, 2020, 2021, Tecnologias de Informação
 - [Formulário do inquérito](https://docs.google.com/forms/d/e/1FAIpQLSfeSKggHskjNCTzmWo6I_pj0dcTxSrHQVZfOA240YhU1HIx2w/viewform)
 - [Ficheiro CSV](inquerito-2019-2021-ti.csv)
 
