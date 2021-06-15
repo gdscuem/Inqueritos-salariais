@@ -12,18 +12,22 @@ Sublinhar que os resultados destas pesquisas são de carácter não-oficial e cr
 ### 2020, Tecnologias de Informação
 - [Formulário do inquérito](https://docs.google.com/forms/d/e/1FAIpQLSf-GonSxd0Ll6Je5-RxdTdgTw-4_lQxY1zQHQASxPyNotgS_g/viewform)
 - [Ficheiro CSV](inquerito-ti-2020.csv)
+- [Google sheets link](https://docs.google.com/spreadsheets/d/1K9af5t6lvUCc-_hPtM1xlV3dFZIDpPGgrzK8yjw4yqk/edit?usp=sharing)
 
 ### 2020, Design
 - [Formulário do inquérito](https://docs.google.com/forms/d/e/1FAIpQLSctwV-jHSFbdj6V_jU-7cnpIf-wLcP27ffhm8L6NhjKeq_XHQ/viewform)
 - [Ficheiro CSV](inquerito-design-2020.csv)
+- [Google sheets link](https://docs.google.com/spreadsheets/d/1TFOfkK_UjsnyjsbncCBbOyBtnDmnB3yRNDN-jkKQvi0/edit#gid=1593587533)
 
 ### 2021, Tecnologias de Informação
 - [Formulário do inquérito](https://docs.google.com/forms/d/e/1FAIpQLSdA2aynlZ_vRUK0sTY-sUcuSaJzy5hlSFjft98xZTITBVEg2A/viewform)
 - [Ficheiro CSV](inquerito-2021-ti.csv)
+- [Google Sheets link](https://docs.google.com/spreadsheets/d/1eOGFHANxoGsfITzWdnX6D2T0lzbWF8SCngA38ZzdbcY/edit?usp=sharing)
 
 ### 2019, 2020, 2021, Tecnologias de Informação
 - [Formulário do inquérito](https://docs.google.com/forms/d/e/1FAIpQLSfeSKggHskjNCTzmWo6I_pj0dcTxSrHQVZfOA240YhU1HIx2w/viewform)
 - [Ficheiro CSV](inquerito-2019-2021-ti.csv)
+- [Google sheets link](https://docs.google.com/spreadsheets/d/18cNvPV4nzM2W5gNvoR3wdJPwt7PjM25pQ40UC2mGCjo/edit?usp=sharing)
 
 ## Contribuir
 Existem três formas de contribuir:
